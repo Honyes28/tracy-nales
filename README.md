@@ -40,7 +40,7 @@ Source repository: https://github.com/Honyes28/tracy-nales. Vercel deployments u
 
 Confirm the brokerage identity, credential wording, service area, required license numbers and advertising disclosures with Tracy and her brokerage. Have Tracy review the Spanish translation. Add a headshot if desired; no portrait of Tracy has been fabricated. Photographs are illustrative interiors, not listings or completed projects.
 
-The supplied logo image was recreated with Image Gen for the website asset (`assets/tracy-logo.png`); it is not the original uploaded file. The footer uses the original supplied Swell Real Estate Co. logo (`assets/IMG_1534.PNG`). The About page uses Tracy’s supplied headshot (`assets/2.png`), with the illustrative interior photograph moved below the professional strengths. The Equal Housing Opportunity symbol is an SVG rendering with visible supporting text.
+The supplied logo image was recreated with Image Gen for the website asset (`assets/tracy-logo.png`); it is not the original uploaded file. The footer uses the original supplied Swell Real Estate Co. logo (`assets/Swell updated.jpg`). The About page uses Tracy’s supplied headshot (`assets/2.png`), with the illustrative interior photograph moved below the professional strengths. The Equal Housing Opportunity symbol is an SVG rendering with visible supporting text.
 
 No analytics, cookies, contact storage, or tracking are implemented. Google Fonts loads externally; self-host if desired. Add a privacy notice appropriate to the final hosting and data handling setup. Set production canonical and social sharing metadata after confirming the domain.
 
