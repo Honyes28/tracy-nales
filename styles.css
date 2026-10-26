@@ -20,3 +20,15 @@ body[data-page="home"] .philosophy{border-top:1px solid #30291e}
 .page-cta{display:flex;align-items:center;justify-content:space-between;gap:35px;padding-top:65px;padding-bottom:70px;border-top:1px solid var(--line)}
 .page-cta h2{font-size:43px}.page-cta .button{flex-shrink:0}
 @media(max-width:650px){.page-heading,html[lang="es"] .page-heading{font-size:40px}.page-cta{align-items:flex-start;flex-direction:column;padding-top:45px;padding-bottom:50px;gap:25px}.page-cta h2{font-size:39px}body[data-page="services"] .services{padding-top:50px;padding-bottom:55px}body[data-page="contact"] .contact{padding-top:55px;padding-bottom:60px}body[data-page="about"] .about{padding-top:50px}}
+
+/* Original portrait and brokerage artwork supplied by Tracy. */
+body[data-page="about"] .about{grid-template-columns:minmax(0,.86fr) minmax(0,1.14fr);gap:80px;align-items:center;padding-bottom:70px}
+.headshot{margin:0;max-width:440px;width:100%;align-self:start}
+.headshot img{display:block;width:100%;height:auto;aspect-ratio:4/5;object-fit:contain}
+.about-detail{display:grid;grid-template-columns:1.1fr 1fr;gap:70px;align-items:center;padding-bottom:80px}
+.about-detail img{display:block;width:100%;height:340px;object-fit:cover}
+.about-detail blockquote{margin:0;padding:28px 0 0;border-top:1px solid var(--gold);font:italic 35px/1.3 var(--serif)}
+.swell-logo{display:block;width:160px;max-width:100%;height:auto;background:#fff}
+@media(max-width:1000px){body[data-page="about"] .about{gap:40px}.about-detail{gap:40px}.about-detail blockquote{font-size:29px}}
+@media(max-width:650px){body[data-page="about"] .about{grid-template-columns:1fr;gap:32px;padding-bottom:45px}.headshot{max-width:350px}.about-detail{grid-template-columns:1fr;gap:28px;padding-bottom:50px}.about-detail img{height:260px}.about-detail blockquote{font-size:29px}.swell-logo{width:125px}}
+.skip:not(:focus){clip-path:inset(50%);width:1px;height:1px;overflow:hidden;padding:0;white-space:nowrap}
